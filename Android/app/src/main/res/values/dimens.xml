@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="popup_menu_x_offset">-80dp</dimen> <!-- Adjust the value as needed -->
+    <dimen name="popup_menu_y_offset">30dp</dimen>
+</resources>
